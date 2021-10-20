@@ -1,0 +1,21 @@
+.cool {
+    background-color: #ff6666;
+    font-family: Verdana, sans-serif;
+
+}
+
+#id-one {
+    color: #0000ff;
+    font-size: 36px;
+
+}
+
+.cool.plus {
+    font-size:24px ;
+}
+
+#id-two {
+    background-color: #b3ff99;
+    font-size: 24px;
+    font-weight: bold;
+}
