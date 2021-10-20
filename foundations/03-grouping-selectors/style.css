@@ -1,14 +1,14 @@
+.c-one,
+.c-two{
+    font-family: Helvetica, "Times New Roma", sans-serif;
+    font-size: 28px;
+}
+
 .c-one{
-    background-color:black ;
+    background-color:black;
     color: white;
 }
 
-
 .c-two{
     background-color: yellow;
-}
-
-.plus{
-    font-size: 28px;
-    font-family: Helvetica, "Times New Roma", sans-serif;
 }
